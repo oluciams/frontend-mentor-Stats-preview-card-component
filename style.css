@@ -20,9 +20,11 @@ main {
     background-image: url(./images/image-header-mobile.jpg);
     width: 350px;
     height: 50vh;
-    background-color: hsl(244, 38%, 16%);
-    background-position: center;    
-    background-repeat: no-repeat;    
+    background-position: center;
+    background-repeat: no-repeat;
+  
+     
+     
 }
 
 main h1 {
@@ -31,7 +33,7 @@ main h1 {
 }
 main p {
     color:hsla(0, 0%, 100%, 0.75);
-    Font size: 15px
+    
 }
 
 #estadistica h3 {
@@ -49,12 +51,10 @@ main p {
 
 .box h3 {
     color:  hsl(0, 0%, 100%);
-    Font size: 15px
-    
+        
 
 }
 .box p {
     color:hsla(0, 0%, 100%, 0.75);
-    Font size: 15px
-
+   
 }
